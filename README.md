@@ -1,4 +1,4 @@
-# 💨 GUI_Chromatography_Gas
+# 💨 GUI Gas Chromatography
 
 Graphical User Interface (GUI) for a DIY Gas Chromatography system using **PyQt5**, **Matplotlib**, and **Serial Communication**, implemented in **Jupyter Notebook** (`00_GUI_gas_chromatography.ipynb`).  
 This project provides a real-time visualization and control system for **TCD (Thermal Conductivity Detector)** and **Gas Sensor (TVOC)** responses.
@@ -93,7 +93,7 @@ TCD (mV): 123.45 | TVOC (ppb): 678.90
 ## 📂 Repository Structure
 
 ```
-GUI_Chromatography_Gas/
+GUI_Gas_Chromatography/
 │
 ├── 00_GUI_gas_chromatography.ipynb   # Main GUI notebook
 ├── screenshot_gui.jpg                # GUI preview image
